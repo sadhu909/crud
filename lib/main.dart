@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../model/sql_helper.dart';
+import 'model/sql_helper.dart';
 
 void main() {
   runApp(const MyApp());
